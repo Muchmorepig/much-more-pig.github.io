@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>桂花糕</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 桂花糕</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>muchmorepig@gmail.com (万木春)</managingEditor>
+    <webMaster>muchmorepig@gmail.com (万木春)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 14 Nov 2020 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>文献笔记</title>
+        <link>http://example.org/posts/reading1/</link>
+        <pubDate>Sat, 14 Nov 2020 12:00:06 +0900</pubDate>
+        <author>muchmorepig@gmail.com (万木春)</author>
+        <atom:modified>Sat, 14 Nov 2020 12:00:06 +0900</atom:modified>
+        <guid>http://example.org/posts/reading1/</guid>
+        <description>原文：https://doi.org/10.1016/j.ymeth.2020.03.005 Chromatin immunoprecipitation followed by sequencing (ChIP-seq) 是表观研究中的重要方法。使用某种DN</description>
+        
+        <dc:creator>万木春</dc:creator>
+        <media:content url="http://example.orgposts/book.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Literature notes</category>
+            
+          
+        
+        
+          
+            
+              <category>Literature notes</category>
+            
+          
+        
+        
+          
+            
+              <category>Literature notes</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
