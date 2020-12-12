@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on 桂花糕</title>
-    <link>http://example.org/tags/</link>
+    <link>https://muchmorepig.github.io/much-more-pig.github.io/tags/</link>
     <description>Recent content in Tags on 桂花糕</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 14 Nov 2020 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://muchmorepig.github.io/much-more-pig.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Literature notes</title>
-        <link>http://example.org/tags/literature-notes/</link>
+        <link>https://muchmorepig.github.io/much-more-pig.github.io/tags/literature-notes/</link>
         <pubDate>Sat, 14 Nov 2020 12:00:06 +0900</pubDate>
         <author>muchmorepig@gmail.com (万木春)</author>
         
-        <guid>http://example.org/tags/literature-notes/</guid>
+        <guid>https://muchmorepig.github.io/much-more-pig.github.io/tags/literature-notes/</guid>
         <description></description>
         
         <dc:creator>万木春</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Literature notes on 桂花糕</title>
-    <link>http://example.org/tags/literature-notes/</link>
+    <link>https://muchmorepig.github.io/much-more-pig.github.io/tags/literature-notes/</link>
     <description>Recent content in Literature notes on 桂花糕</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 14 Nov 2020 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/tags/literature-notes/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://muchmorepig.github.io/much-more-pig.github.io/tags/literature-notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>文献笔记</title>
-        <link>http://example.org/posts/reading1/</link>
+        <link>https://muchmorepig.github.io/much-more-pig.github.io/posts/reading1/</link>
         <pubDate>Sat, 14 Nov 2020 12:00:06 +0900</pubDate>
         <author>muchmorepig@gmail.com (万木春)</author>
         <atom:modified>Sat, 14 Nov 2020 12:00:06 +0900</atom:modified>
-        <guid>http://example.org/posts/reading1/</guid>
+        <guid>https://muchmorepig.github.io/much-more-pig.github.io/posts/reading1/</guid>
         <description>原文：https://doi.org/10.1016/j.ymeth.2020.03.005 Chromatin immunoprecipitation followed by sequencing (ChIP-seq) 是表观研究中的重要方法。使用某种DN</description>
         
         <dc:creator>万木春</dc:creator>
-        <media:content url="http://example.orgposts/book.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://muchmorepig.github.io/much-more-pig.github.ioposts/book.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
